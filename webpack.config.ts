@@ -112,6 +112,7 @@ export function buildConfig({
           test: /\.(png|jpg|jpeg)$/i,
           type: "asset/inline",
         },
+        
         {
           test: /\.(woff|woff2)$/,
           type: "asset/inline",
